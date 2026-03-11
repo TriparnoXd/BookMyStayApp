@@ -44,10 +44,7 @@ class CancellationService {
     }
 }
 
-/**
- * Since your error says the class should be named PalindromeCheckerApp,
- * I have renamed the main class here to fix your IDE error.
- */
+
 public class PalindromeCheckerApp {
     public static void main(String[] args) {
         System.out.println("Booking Cancellation");
